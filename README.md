@@ -9,7 +9,7 @@ O objetivo deste projeto foi aprender conceitos básicos sobre html e css.
 | :rocket: URL         | https://url-deploy.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://user-images.githubusercontent.com/69736274/218174857-586e0378-56b0-4f26-a915-f8fafc9922ec.gif#vitrinedev)
 
 ---
 
